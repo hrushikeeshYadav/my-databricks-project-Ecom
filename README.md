@@ -1,5 +1,5 @@
 # End-to-End Azure Databricks E-Commerce Data Engineering Project
-
+## Lets Have a Deep Dive
 This repository contains an end-to-end E-Commerce Data Engineering project built using **Azure Databricks, Azure Data Lake Storage Gen2, PySpark, Delta Lake, and Unity Catalog**.
 
 The project demonstrates how to build a structured data engineering solution from the ground up, covering Azure resource configuration, Databricks workspace setup, compute, catalog and schema management, secure storage access, data ingestion, transformation, data quality, and business analytics.
